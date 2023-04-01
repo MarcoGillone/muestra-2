@@ -1,0 +1,23 @@
+.subtitulos{
+    color: rgb(75, 3, 3);
+    height: 15px;
+  
+}
+body{
+ background-color: bisque;
+}
+a{
+    color: brown;
+}
+.textos{
+    color: rgb(2, 2, 22);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foto{
+    height: 200px;
+    width: 200px;
+     }
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#424949;   
+}
